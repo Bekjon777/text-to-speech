@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\bek\projects\text-to-speech</_PublishTargetUrl>
+    <History>True|2021-08-05T21:49:51.2186560Z;True|2021-08-05T17:40:37.6841935-04:00;</History>
+  </PropertyGroup>
+</Project>

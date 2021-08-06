@@ -1,0 +1,23 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="text-center">
+    <div class="container" style="margin-top:40px">
+        <div class="row">
+            <div class="col">
+                <form method="post">
+                    <div>Type the text to convert</div>
+                    <div class="input-group">
+                        <textarea class="form-control" aria-label="With textarea" name="text"></textarea>
+                    </div>
+                    <div style="margin-top:20px">
+                        <input type="submit" class="btn btn-primary" value="Play">
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>    
+</div>
